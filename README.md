@@ -13,7 +13,7 @@ This repository contains a TypeScript project.
 - TypeScript: 99.3%
 - CSS: 0.5%
 - HTML: 0.2%
-- JavaScript: 0.0%
+
 
 ## Installation
 
