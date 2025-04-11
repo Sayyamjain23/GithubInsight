@@ -6,7 +6,7 @@ A TypeScript repository
 
 ## Overview
 
-This repository contains a TypeScript project that a typescript repository.
+This repository contains a TypeScript project.
 
 ## Languages
 
